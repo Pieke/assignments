@@ -13,3 +13,4 @@ This repository contains my assignments
 
 # final assignments
 
+[final python assignment](https://github.com/Pieke/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
